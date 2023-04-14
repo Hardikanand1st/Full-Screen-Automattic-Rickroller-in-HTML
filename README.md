@@ -8,3 +8,5 @@ https://amari.ninja
 or
 
 https://hardikanand1st.github.io/Full-Screen-Automattic-Rickroller-in-HTML
+
+The RickRoll Video Link is being called up from a cdn service for better loading time.
